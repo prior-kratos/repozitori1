@@ -1,0 +1,26 @@
+.galava{
+    width: 1289px;
+    height: 461px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap:19px;
+
+}
+.big{
+    background-color: #c8c7f4;
+    width: 855px;
+    height: 386px;
+    border-radius: 6px;
+}
+.small{
+    width: 415px;
+    height: 386px;
+    border-radius: 6px;
+    background-color: #c8c7f4;
+}
+.promotion{
+    width: 362px;
+    height: 40px;
+    font-size: 34px;
+}
