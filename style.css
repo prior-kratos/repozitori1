@@ -1,26 +1,63 @@
-.galava{
+.galava {
     width: 1289px;
     height: 461px;
     display: flex;
     justify-content: center;
     align-items: center;
-    gap:19px;
+    gap: 19px;
 
 }
-.big{
+
+.big {
     background-color: #c8c7f4;
     width: 855px;
     height: 386px;
     border-radius: 6px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
-.small{
+
+.small {
     width: 415px;
     height: 386px;
     border-radius: 6px;
     background-color: #c8c7f4;
 }
-.promotion{
+
+.promotion {
     width: 362px;
     height: 40px;
     font-size: 34px;
+}
+
+.AAA {
+    width: 48px;
+    height: 14px;
+    color: #717171;
+}
+
+.b {
+    width: 359px;
+    height: 71px;
+    color: black;
+}
+.gl{
+    /* display: flex; */
+}
+.c{
+    color: #717171;
+}
+.d{
+text-decoration: line-through;
+width: 71px;
+height: 24px;   
+}
+.kl{
+    background-color: #6e25ee;
+    color: #ffffff;
+    
+}
+.oa{
+    display: flex;
 }
